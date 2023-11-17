@@ -3,7 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+image_classifier_1.pth
 
+*.pth
 .DS_Store
 
 # C extensions
