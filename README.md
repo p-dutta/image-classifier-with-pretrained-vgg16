@@ -1,4 +1,4 @@
-# AI Programming with Python Project
+# Developing an Image Classifier using Pretrained Model
 
 Project code for Udacity's AI Programming with Python Nanodegree program. In this project, we developed code for an image classifier built with PyTorch, then converted it into a command line application.
 
